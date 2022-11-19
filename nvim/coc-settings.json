@@ -1,0 +1,4 @@
+{
+    "diagnostic.checkCurrentLine": true,
+    "java.jdt.ls.vmargs": "-javaagent:/Users/dubli/.m2/repository/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar"
+}
